@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>58A1D5DA-74D8-4A3B-986D-12F5B5C8D489</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProgramGuide</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67DE4747-CB27-4D41-B6C5-EE41CB185D2B</key>
+		<string>https://github.com/ctarda-accedo/ProgramGuide.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProgramGuide.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67DE4747-CB27-4D41-B6C5-EE41CB185D2B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ctarda-accedo/ProgramGuide.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67DE4747-CB27-4D41-B6C5-EE41CB185D2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67DE4747-CB27-4D41-B6C5-EE41CB185D2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProgramGuide</string>
+		</dict>
+	</array>
+</dict>
+</plist>
